@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/var/home/aarron/.rbenv/shims/ruby
 require 'yaml'
 
 def die(msg); puts msg; exit 1; end
